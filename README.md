@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the solution code for the Route Planning project from the Udacity C++ Nanodegree Course.
+This repo contains the solution code for the Route Planning project for the Udacity C++ Nanodegree Course.
 The Base code for this project can be found here: https://github.com/udacity/CppND-Route-Planning-Project.git .
 
 <img src="map.png" width="600" height="450" />
